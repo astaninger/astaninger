@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=astaninger)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sbueringer&hide=mathematica,javascript,php&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **astaninger/astaninger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
