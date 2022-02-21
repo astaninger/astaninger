@@ -10,4 +10,4 @@ Stats:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astaninger&hide=HTML&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=astaninger.visitor-badge)
